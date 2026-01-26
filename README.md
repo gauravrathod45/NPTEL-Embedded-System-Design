@@ -1,2 +1,8 @@
 # NPTEL-Embedded-System-Design
-Concise week-wise notes from NPTEL Embedded System Design course for revision and interview preparation.
+
+This repository contains my self-written and concise notes from the NPTEL course
+"Embedded System Design".
+
+The notes are organized week-wise in bullet points for
+quick revision and interview preparation.
+
