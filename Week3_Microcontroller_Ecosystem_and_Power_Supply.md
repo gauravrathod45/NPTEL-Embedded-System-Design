@@ -38,4 +38,4 @@
 • Backup power sources include batteries, supercapacitors, solar cells, vibration-based energy harvesting, and thermoelectric generators.
 
 ---
-Note: These are concise self-written notes prepared from NPTEL lecture slides and personal handwritten notes for revision and interview preparation.
+Note: These are concise self-written notes prepared from NPTEL lecture slides and personal handwritten notes for revision and interview preparations.
